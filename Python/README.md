@@ -1,5 +1,5 @@
 ---
-title: "NodeJS"
+title: "Python"
 description: "This is the root directory for the NodeJS related contents"
 image: "../../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 publishedAt: "2024-05-11"
@@ -11,4 +11,4 @@ tags: ['']
 
 ## Blog Contents
 
-This is the starting point for various NodeJS related articles
+This is the starting point for various Python related articles
