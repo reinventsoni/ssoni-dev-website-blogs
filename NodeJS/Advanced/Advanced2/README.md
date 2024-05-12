@@ -1,6 +1,6 @@
 ---
-title: "NodeJS Advanced"
-description: "Discover the advanced topics and concepts of NodeJS"
+title: "NodeJS Advanced2"
+description: "Advanced 2- Discover the advanced topics and concepts of NodeJS"
 image: "../../public/blogs/emile-perron-xrVDYZRGdw4-unsplash.jpg"
 publishedAt: "2024-05-11"
 updatedAt: "2024-05-11"
